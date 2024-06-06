@@ -1,11 +1,9 @@
 package com.password.manager.ui.features.home.bottomsheet
 
-import android.util.Base64
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
-import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
@@ -34,8 +32,7 @@ import androidx.compose.ui.unit.TextUnit
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.password.manager.R
-import com.password.manager.core.encryption.EncryptDecrypt
-import com.password.manager.data.Password
+import com.password.manager.data.model.Password
 import com.password.manager.ui.components.CTAButtonBase
 import com.password.manager.ui.components.DragHandle
 import com.password.manager.ui.theme.BlueHeaderTextColor

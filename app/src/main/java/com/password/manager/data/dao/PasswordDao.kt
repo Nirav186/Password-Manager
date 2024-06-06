@@ -4,7 +4,7 @@ import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import com.password.manager.data.Password
+import com.password.manager.data.model.Password
 import kotlinx.coroutines.flow.Flow
 
 @Dao

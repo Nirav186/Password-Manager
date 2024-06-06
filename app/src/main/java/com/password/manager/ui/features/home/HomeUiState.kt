@@ -1,6 +1,6 @@
 package com.password.manager.ui.features.home
 
-import com.password.manager.data.Password
+import com.password.manager.data.model.Password
 
 sealed class HomeUiState {
     data object Loading : HomeUiState()

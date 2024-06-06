@@ -1,6 +1,6 @@
 package com.password.manager.data.repository
 
-import com.password.manager.data.Password
+import com.password.manager.data.model.Password
 import com.password.manager.data.dao.PasswordDao
 import com.password.manager.domain.PasswordRepository
 import javax.inject.Inject

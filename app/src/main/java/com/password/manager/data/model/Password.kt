@@ -1,4 +1,4 @@
-package com.password.manager.data
+package com.password.manager.data.model
 
 import android.util.Base64
 import androidx.room.Entity

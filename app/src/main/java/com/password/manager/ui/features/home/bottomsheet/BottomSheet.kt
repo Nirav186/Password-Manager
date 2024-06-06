@@ -1,9 +1,7 @@
-package com.password.manager.ui.features.home
+package com.password.manager.ui.features.home.bottomsheet
 
 import androidx.compose.runtime.Composable
-import com.password.manager.data.Password
-import com.password.manager.ui.features.home.bottomsheet.AddOrUpdatePasswordSheet
-import com.password.manager.ui.features.home.bottomsheet.ShowSavedPassword
+import com.password.manager.data.model.Password
 
 @Composable
 fun BottomSheet(

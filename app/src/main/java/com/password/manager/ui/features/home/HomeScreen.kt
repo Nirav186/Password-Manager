@@ -34,7 +34,9 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.password.manager.R
-import com.password.manager.data.Password
+import com.password.manager.data.model.Password
+import com.password.manager.ui.features.home.bottomsheet.BottomSheet
+import com.password.manager.ui.features.home.bottomsheet.BottomSheetType
 import com.password.manager.ui.theme.FloatingButtonContainerColor
 import com.password.manager.ui.theme.HomeScreenColors
 import com.password.manager.ui.theme.SfProDisplay

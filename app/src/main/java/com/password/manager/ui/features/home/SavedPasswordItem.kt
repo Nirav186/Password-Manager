@@ -25,7 +25,7 @@ import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.password.manager.R
-import com.password.manager.data.Password
+import com.password.manager.data.model.Password
 import com.password.manager.ui.theme.SfProDisplay
 
 object SavedPasswordItemDefaults {

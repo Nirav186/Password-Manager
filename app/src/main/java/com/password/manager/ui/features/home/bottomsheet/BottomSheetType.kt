@@ -1,6 +1,6 @@
-package com.password.manager.ui.features.home
+package com.password.manager.ui.features.home.bottomsheet
 
-import com.password.manager.data.Password
+import com.password.manager.data.model.Password
 
 sealed class BottomSheetType {
     data object AddNewPassword : BottomSheetType()

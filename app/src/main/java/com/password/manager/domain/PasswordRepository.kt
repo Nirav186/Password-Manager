@@ -1,6 +1,6 @@
 package com.password.manager.domain
 
-import com.password.manager.data.Password
+import com.password.manager.data.model.Password
 import kotlinx.coroutines.flow.Flow
 
 interface PasswordRepository {

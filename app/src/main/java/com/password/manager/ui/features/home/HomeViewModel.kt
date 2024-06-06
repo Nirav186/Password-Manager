@@ -2,7 +2,7 @@ package com.password.manager.ui.features.home
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.password.manager.data.Password
+import com.password.manager.data.model.Password
 import com.password.manager.domain.usecase.UseCaseDeletePassword
 import com.password.manager.domain.usecase.UseCaseFetchAllPasswords
 import com.password.manager.domain.usecase.UseCaseInsertPassword

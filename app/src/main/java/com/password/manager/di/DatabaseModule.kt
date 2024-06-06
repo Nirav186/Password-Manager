@@ -2,7 +2,7 @@ package com.password.manager.di
 
 import android.content.Context
 import androidx.room.Room
-import com.password.manager.data.DatabaseHelper
+import com.password.manager.data.database.DatabaseHelper
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

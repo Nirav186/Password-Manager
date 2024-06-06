@@ -21,8 +21,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.password.manager.R
-import com.password.manager.core.encryption.EncryptDecrypt
-import com.password.manager.data.Password
+import com.password.manager.data.model.Password
 import com.password.manager.ui.components.CTAButtonBase
 import com.password.manager.ui.components.CustomTextField
 import com.password.manager.ui.components.DragHandle

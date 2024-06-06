@@ -2,7 +2,7 @@ package com.password.manager.domain.usecase
 
 import com.password.manager.core.UseCase
 import com.password.manager.core.encryption.EncryptDecrypt
-import com.password.manager.data.Password
+import com.password.manager.data.model.Password
 import com.password.manager.domain.PasswordRepository
 import javax.inject.Inject
 

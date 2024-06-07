@@ -12,7 +12,7 @@ The Password Manager App is an Android application developed in Kotlin that allo
 - **Error Handling:** All errors are managed gracefully to ensure a smooth user experience.
 
 ## Screenshots
-(Add screenshots of your app here)
+<a href='https://postimg.cc/V5d3X2dq' target='_blank'><img src='https://i.postimg.cc/V5d3X2dq/Home-Screen.png' border='0' alt='Home-Screen'/></a>
 
 ## Installation
 1. Clone the repository:
@@ -42,6 +42,9 @@ The app includes comprehensive error handling to manage any issues that may aris
 - Encryption/Decryption errors
 - General exceptions
 
+## Kotlin Multiplatform Support
+The app leverages Kotlin libraries to extend Compose Multiplatform support, making it easier to develop and maintain the UI across different platforms.
+
 ## Contributing
 Contributions are welcome! Please fork the repository and submit pull requests for any features, bug fixes, or improvements.
 
@@ -49,7 +52,7 @@ Contributions are welcome! Please fork the repository and submit pull requests f
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any queries or support, please contact [your-email@example.com](mailto:your-email@example.com).
+For any queries or support, please contact [nrvrangapariya186@gmail.com](mailto:nrvrangapariya186@gmail.com).
 
 ---
 

@@ -12,9 +12,9 @@ The Password Manager App is an Android application developed in Kotlin that allo
 - **Error Handling:** All errors are managed gracefully to ensure a smooth user experience.
 
 ## Screenshots
-![Screenshot 1](https://github.com/Nirav186/Password-Manager/assets/59496724/bcbe8ca9-045b-40b8-8d22-38c334cc877a)
-![Screenshot 2](https://github.com/Nirav186/Password-Manager/assets/59496724/61c2996b-70f4-46d6-86e7-015cb0dfde55)
-![Screenshot 3](https://github.com/Nirav186/Password-Manager/assets/59496724/98cfc778-5196-4fbb-9c6e-41ff49f1727c)
+<img src="https://github.com/Nirav186/Password-Manager/assets/59496724/bcbe8ca9-045b-40b8-8d22-38c334cc877a" alt="Screenshot 1" width="200"/>
+<img src="https://github.com/Nirav186/Password-Manager/assets/59496724/61c2996b-70f4-46d6-86e7-015cb0dfde55" alt="Screenshot 2" width="200"/>
+<img src="https://github.com/Nirav186/Password-Manager/assets/59496724/98cfc778-5196-4fbb-9c6e-41ff49f1727c" alt="Screenshot 3" width="200"/>
 
 ## Installation
 1. Clone the repository:

@@ -46,7 +46,7 @@ The app includes comprehensive error handling to manage any issues that may aris
 - General exceptions
 
 ## Kotlin Multiplatform Support
-The app leverages Kotlin libraries to extend Compose Multiplatform support, making it easier to develop and maintain the UI across different platforms.
+The app leverages only Kotlin libraries to extend Compose Multiplatform support in future, making it easier to develop and maintain the UI across different platforms.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit pull requests for any features, bug fixes, or improvements.

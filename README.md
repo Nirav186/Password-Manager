@@ -26,13 +26,14 @@ The Password Manager App is an Android application developed in Kotlin that allo
 
 ## Usage
 1. **Adding a Password:**
-    - Navigate to the "Add Password" screen.
-    - Enter the details and click on the "Save" button.
+    - Navigate to the "Add Password" bottom sheet.
+    - Enter the details and click on the "Add New Account" button.
 2. **Viewing/Editing a Password:**
     - Tap on a password from the home screen list.
     - View or edit the details and save changes.
 3. **Deleting a Password:**
-    - Long press on a password in the list and select the "Delete" option.
+    - Tap on a password from the home screen list.
+    - click on the delete button in bottomsheet.
 
 ## Security
 All passwords are encrypted using the AES encryption algorithm to ensure they are stored securely.

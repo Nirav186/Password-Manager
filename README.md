@@ -40,7 +40,6 @@ All passwords are encrypted using the AES encryption algorithm to ensure they ar
 
 ## Error Handling
 The app includes comprehensive error handling to manage any issues that may arise:
-- Network errors
 - Data validation errors
 - Encryption/Decryption errors
 - General exceptions
